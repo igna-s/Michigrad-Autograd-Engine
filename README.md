@@ -31,13 +31,13 @@ of libraries like PyTorch and architectures like Transformers.
 
 ---
 
-## 🚀 Installation & Requirements
+## 🚀 Installation
 
 Python **3.8+** is recommended.
 
     git clone https://github.com/igna-s/Michigrad-Autograd-Engine.git
     cd Michigrad-Autograd-Engine
-    pip install numpy matplotlib jupyter torch
+
 
 > PyTorch is used only for validation and gradient comparison.
 
